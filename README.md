@@ -1,4 +1,4 @@
-# Shadowsocks 帮助导航
+# Shadowsocks 终极指南
 
 1 [Shadowsocks 终极使用指南](https://shadowsocks-help.github.io/Shadowsocks/)
 
