@@ -18,8 +18,8 @@
 
 ## Shadowsocks 其他 ##
 
-| [苹果APPLE ID美区账号免费共享](https://shadowsockshelp.github.io/Shadowsocks/appleid.html) | [如何注册苹果APPLE ID美区账号](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html) | [SS/ShadowsocksR付費穩定服務器！](https://s-s-r.github.io/) | [一鍵接入，鏈接全球！](https://s-s-r.github.io/) |[V2Ray注册体验](https://v2server.github.io/)|
+| [苹果APPLE ID美区账号免费共享](https://shadowsockshelp.github.io/Shadowsocks/appleid.html) | [如何注册苹果APPLE ID美区账号](https://shadowsockshelp.github.io/Shadowsocks/apple-id.html) | [SS/ShadowsocksR付費穩定服務器！](https://s-s-r.github.io/) | [一鍵接入，鏈接全球！](https://s-s-r.github.io/) |[V2Ray注册体验](https://v2sx.github.io/)|
 
 ## V2Ray ##
 
-|[V2Ray注册体验](https://v2server.github.io/)|
+|[V2Ray注册体验](https://v2sx.github.io/)|
