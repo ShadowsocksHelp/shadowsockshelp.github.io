@@ -22,4 +22,4 @@
 
 ## V2Ray ##
 
-|[V2Ray注册体验](https://v2sx.github.io/)|
+|[V2Ray注册体验](https://v2sx.github.io/)|[V2Ray终极使用帮助](https://v2sx.github.io/Help)|
